@@ -3,7 +3,7 @@
 Actualmente hago un bootcamp de desarrollo web fullstack, soy técnico en programación de software y estudiante de ingeniería de sistemas. Me apasiona mucho todo lo relacionado con el desarrollo web.
 
 ### Habilidades: 
-* JAVASCRIPT
+* JAVASCRIPT [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>]
 * NODE JS
 * REACT
 * REDUX 
