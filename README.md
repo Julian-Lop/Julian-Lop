@@ -2,7 +2,18 @@
 #### Desarrollador web fullstack.
 Actualmente hago un bootcamp de desarrollo web fullstack, soy técnico en programación de software y estudiante de ingeniería de sistemas. Me apasiona mucho todo lo relacionado con el desarrollo web.
 
-Habilidades: JAVASCRIPT / NODE JS / REACT / REDUX / SEQUELIZE ORM / POSTGRESQL / MONGODB / MYSQL / HTML / CSS / LESS
+Habilidades: 
+* JAVASCRIPT
+* NODE JS
+* REACT
+* REDUX 
+* SEQUELIZE ORM 
+* POSTGRESQL 
+* MONGODB 
+* MYSQL 
+* HTML 
+* CSS 
+* LESS
 
 - 🔭 Estoy trabajando en en un proyecto final grupal, sobre una página de rescate animal. 
 - 🌱 Estoy aprendiendo consolidando mis conocimientos adquiridos :arrow_heading_down:. 
