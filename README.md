@@ -2,7 +2,7 @@
 #### Desarrollador web fullstack.
 Actualmente hago un bootcamp de desarrollo web fullstack, soy técnico en programación de software y estudiante de ingeniería de sistemas. Me apasiona mucho todo lo relacionado con el desarrollo web.
 
-Habilidades: 
+### Habilidades: 
 * JAVASCRIPT
 * NODE JS
 * REACT
