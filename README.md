@@ -11,5 +11,5 @@ Actualmente hago un bootcamp de desarrollo web fullstack, soy técnico en progra
 ## Puede contactarme en mi linkedin :arrow_heading_down: 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/julián-andrés-lópez-castañeda-924682223/)  <img src='https://www.flaticon.es/icono-premium/correo-electronico_3686989?term=email&page=1&position=16&page=1&position=16&related_id=3686989&origin=tag' alt='linkedin' height='40'>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/julián-andrés-lópez-castañeda-924682223/)  <img src='https://www.pngfind.com/mpng/hoRJoTo_icono-correo-download-icon-gmail-png-transparent-png/' alt='linkedin' height='40'>
 
