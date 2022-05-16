@@ -1,6 +1,6 @@
 ### Hola 👋, soy Julian Lopez
 #### Desarrollador web fullstack.
-Actualmente soy desarrollador web fullstack, soy técnico en programación de software y estudiante de ingeniería de sistemas. Me apasiona mucho todo lo relacionado con el desarrollo web.
+Soy desarrollador web fullstack, cuento con titulo Técnico en programación de software y estudiante de ingeniería de sistemas. Me apasiona el desarrollo web y estar en constante aprendizaje.
 
 ### Habilidades: 
 * JAVASCRIPT / NODE JS / REACT / REDUX / POSTGRESQL / MONGODB / MYSQL / HTML / CSS / SEQUELIZE ORM / LESS 
